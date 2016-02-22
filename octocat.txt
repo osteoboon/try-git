@@ -1,4 +1,0 @@
-This is the file "octocat.txt" created for the codeschool.com
-course "Try Git".
-
-
